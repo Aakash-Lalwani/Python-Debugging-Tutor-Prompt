@@ -155,11 +155,3 @@ The prompt is designed to handle various types of bugs:
   - Clear differentiation between beginner and advanced approaches
 
 ---
-
-## 📧 **Submission Information**
-
-**Repository**: [GitHub Link to be added]  
-**Contact**: pythonsupport@fossee.in  
-**Date**: September 13, 2025
-
-This prompt empowers AI assistants to be effective programming tutors, fostering student growth through guided discovery rather than direct solution provision.
